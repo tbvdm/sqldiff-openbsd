@@ -10,7 +10,7 @@ LDFLAGS+!=	pkg-config --libs sqlite3
 .endif
 
 sqldiff.c:
-	ftp https://github.com/sqlite/sqlite/raw/${TAG}/tool/sqldiff.c
+	ftp https://github.com/sqlite/sqlite/raw/${TAG}/tool/$@
 	echo ${SHA256} $@ | sha256 -c
 
 .include <bsd.prog.mk>
