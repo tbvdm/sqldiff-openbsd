@@ -1,5 +1,5 @@
-TAG=		version-3.44.0
-SHA256=		43dd4449e3e62c93bba38a510ecda3fb6666a1ca7738a135a3b0b9c6f73dd22f
+TAG=		version-3.45.0
+SHA256=		59d9a23ebe8ff3e68b0bdb1c562ba1777d3f5f0e0e5dfddfc6ca6370abebf03a
 
 PROG=		sqldiff
 NOMAN=
