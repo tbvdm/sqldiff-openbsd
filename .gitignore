@@ -1,4 +1,5 @@
 /obj/
 /sqldiff
 /sqldiff.[cdo]
+/sqlite3_stdio.h
 /tags
